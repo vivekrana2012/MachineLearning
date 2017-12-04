@@ -1,0 +1,1 @@
+@"d:\python-workspace\machine learning\second_project\scripts\python.exe" "d:\python-workspace\machine learning\second_project\Scripts\markdown_py" %*
